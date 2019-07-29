@@ -6,6 +6,8 @@
 
 ### Phonetic alphabet(音标)
 
+Todo
+
 ### Word
 
 | 单词       | 发音       | 释义                                                                                                              |
@@ -27,4 +29,8 @@
 
 ### 大小人名
 
+Todo
+
 ### Other
+
+Todo
